@@ -39,7 +39,8 @@ Since this `<PixAccordion />` is based on `react-native-collapsible` you can use
 
 TweetBot like menu with `bounce` effect. Check `Example` folder for more details. (please not that the example is using placeholder images instead of full TweetBot implementation)
 
-![PixAccordionDemo](https://www.dropbox.com/s/n8vdxvoudnv0bzl/PixAccordion.gif "PixAccordion Demo")
+
+![pixaccordion](https://cloud.githubusercontent.com/assets/5916111/25980425/b560c9fc-368b-11e7-8585-a3f96875e0ec.gif)
 
 
 ## Example
